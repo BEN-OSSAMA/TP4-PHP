@@ -1,5 +1,5 @@
 <?php
-// index_2.php
+
 
 require_once 'Particulier.php';
 require_once 'Entreprise.php';

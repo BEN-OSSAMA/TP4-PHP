@@ -1,5 +1,4 @@
 <?php
-// index_1.php
 
 require_once 'Client.php';
 
